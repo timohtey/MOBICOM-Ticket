@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MOBICOM_ticket</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Concert Ticket</string>
+    <string-array name="bands">
+        <item >Up Dharma Down</item>
+        <item >The XX</item>
+        <item >Daughter</item>
+        <item >The Paper Kites</item>
+    </string-array>
+    <string name="numberTextView">Total number of tickets</string>
+    <string name="button">Calculate</string>
+
+</resources>
